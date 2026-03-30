@@ -2,7 +2,7 @@
 
 > 产品经理作品集 · 求职项目 · 2026年3月
 
-**[👉 点击查看交互Demo](https://hushak-01/github.io/shopee-seller-ai-hub/)**
+**[🛒 点击查看交互Demo](https://hushak-01.github.io/shopee-seller-ai-hub/)**
 ---
 
 ## 项目简介
