@@ -2,10 +2,9 @@
 
 > 产品经理作品集 · 求职项目 · 2026年3月
 
-**[🛒 点击查看交互Demo](https://github.com/hushak-01/shopee-seller-ai-hub)**
----
+**[🛒 点击查看交互Demo]([https://github.com/hushak-01/shopee-seller-ai-hub](https://hushak-01.github.io/shopee-seller-ai-hub/))**
 
-## 项目简介
+
 
 本项目为面向Shopee跨境卖家的官方原生AI运营工具产品方案，包含完整PRD文档与高保真交互原型。
 
